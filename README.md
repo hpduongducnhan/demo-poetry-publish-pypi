@@ -67,8 +67,8 @@
         ``` pyproject.toml
         [tool.poetry]
         name = "demopythonlib"
-        version = "0.1.1"       -> change from 0.1.0 to 0.1.1 for example
-        ...
+        version = "0.1.1"       -> change from 0.1.0 to 0.1.1 for example  
+        
         ```
     - Or use bump2version (https://github.com/c4urself/bump2version)
     - Build then publish
